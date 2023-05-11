@@ -1,7 +1,7 @@
 #!/bin/bash
 TYPE="retro-terminal"
-THEME="green.css"
-DOMAIN="theme-park.dev"
+THEME="amber.css"
+DOMAIN="alpnwht.github.io/theme.park"
 SCHEME="https"
 ADD_JS="true"
 JS="custom_text_header.js"
